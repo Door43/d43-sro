@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sro:home|Door43 (sro)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sro|d43-sro repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sro/archive/master.zip|d43-sro.zip]]
+
+**Recent Changes**
+{{changes>ns = sro}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sro|Ethnologue data]]
+
